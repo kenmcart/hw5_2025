@@ -1,5 +1,6 @@
 #logo {
     animation: logosize 5s linear;
+    width: 475px;
 }
 
 .nav_links a:visited, a:link {
